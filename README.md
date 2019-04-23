@@ -7,4 +7,4 @@ Citi Bike Project
 Most Citi Bike users in 2018 were male subscribers and they are in their 30’s. Weekdays are very busy when comparing with the weekends. The busiest day is Wednesday. The busiest time of the year in the 3rd Quarter. The top 10 stations where the biking started and ended are in NJ. The #1 station to start and end rides in 2018 was the Grove St Path located in Jersey City, New Jersey.
 
 
-![alt text](https://github.com/adrianakopf/Tableau/blob/master/CitiBikeProject.pdf)
+![alt text](https://github.com/adrianakopf/Tableau/blob/master/citibike.png)
